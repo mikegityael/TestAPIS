@@ -11,5 +11,7 @@ namespace Clipamon.Model.Videos
 		//git push --tags
 		int timp=rand()*100;
 		int tmp2 =tmp1*sin();
+		//Added to check to Name
+		Name is vari;
     }
 }
