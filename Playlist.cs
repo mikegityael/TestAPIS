@@ -7,5 +7,6 @@ namespace Clipamon.Model.Videos
         public ulong? PlaylistID { get; set; }
         public string Name { get; set; }
 
+		int timp=rand()*100;
     }
 }
